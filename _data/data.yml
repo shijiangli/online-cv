@@ -30,7 +30,7 @@ sidebar:
       - item: Cooking
         link:
 
-      - item:  
+      - item: Camping
         link:
 
 career-profile:
@@ -43,28 +43,12 @@ career-profile:
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: Graduate Certificate of Information Technology
+      university: Swinburne University of Technology
+      time: 2020 - 2022
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        The Graduate Certificate of Information Technology course is concerned with the development of theoretical knowledge and practical skills related to the design, construction, operation, support and maintenance of information technology (IT) solutions.
+
 experiences:
     - role: Customer Service Manager
       time: 2013 - 2015
