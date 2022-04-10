@@ -69,14 +69,22 @@ experiences:
 
 projects:
     assignments:
-      - title: Assignment 1 - Simple Car Park Management System in Java
+      - title: Assignment 1 - Simple Car Park Management System (Object Oriented Programming)
         link: "#"
-        tagline: "Used Java to write a simple car park management system"
+        tagline: "Implement a car park management system using Java"
 
-      - title: Assignment 2 - Discord Bot in Python
+      - title: Assignment 2 - Discord Bot in Python (Object Oriented Programming)
         link: "#"
         tagline: "Project Disbot focuses on finding ways of capitalising on information posted to the Discord channels. For example, administrators at Institute would like to monitor for certain inappropriate words or phrases to make sure users are conducting themselves professionally. Educators at Institute are very interested in gathering information about the topics/concepts students are discussing or asking for help with so that they can plan future classes."
   
+       - title: Assignment 3 - Web Development (PHP, MySQL, HTML5, CSS3)
+        link: "#"
+        tagline: "Implement a personal website using HTML5, CSS3, MySQL, PHP"
+
+      - title: Assignment 4 - Software Testing and Quality Assurance
+        link: "#"
+        tagline: "Software testing a procedure to ensure the quality of software products or services provided to the customers by an organization. Quality assurance focuses on improving the software development process and making it efficient and effective as per the quality standards defined for software products."
+
 skills:
     title: Skills &amp; Proficiency
 
