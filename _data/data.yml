@@ -42,6 +42,7 @@ career-profile:
       penatibus et magnis dis parturient montes, nascetur ridiculus mus.
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
+      
 education:
     - degree: Graduate Certificate of Information Technology
       university: Swinburne University of Technology
@@ -56,11 +57,17 @@ education:
       time: 2005 - 2007
       
 experiences:
+    - role: Product Owner/Web Developer
+      time: 2022 - Now
+      company: My Own Project (Handy Wiki)
+      details: |
+         - Analysing and Desgining the site
+         - Web Development
+
     - role: Customer Service Manager
       time: 2013 - 2015
-      company: Curtis Fresh, VIC
+      company: Curtis Fresh
       details: |
-        Describe your role here lorem ipsum dolor sit amet
           - Stocktaking
           - Customer service
           - Coaching and developing a team of up to 5
@@ -73,7 +80,7 @@ projects:
 
       - title: Assignment 2: Discord Bot in Python
         link: "#"
-        tagline: "'Project Disbot' focuses on finding ways of capitalising on information posted to the Discord channels. For example, administrators at Institute would like to monitor for certain inappropriate words or phrases to make sure users are conducting themselves professionally. Educators at Institute are very interested in gathering information about the topics/concepts students are discussing or asking for help with so that they can plan future classes."
+        tagline: "Project Disbot focuses on finding ways of capitalising on information posted to the Discord channels. For example, administrators at Institute would like to monitor for certain inappropriate words or phrases to make sure users are conducting themselves professionally. Educators at Institute are very interested in gathering information about the topics/concepts students are discussing or asking for help with so that they can plan future classes."
   
 skills:
     title: Skills &amp; Proficiency
