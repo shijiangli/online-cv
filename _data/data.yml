@@ -79,24 +79,23 @@ projects:
   
       - title: Assignment - Static Website Development (HTML5, CSS3)
         link: "#"
-        tagline: "Implement a personal website using HTML5, CSS3"
+        tagline: "Implement a static personal website using HTML5, CSS3"
         
       - title: Assignment - Interactive Website Development (PHP, MySQL, HTML5, CSS3)
         link: "#"
-        tagline: "Implement a personal website using HTML5, CSS3, MySQL, PHP"
+        tagline: "Implement an interactive personal website using HTML5, CSS3, MySQL, PHP"
 
       - title: Assignment - Software Testing and Quality Assurance
         link: "#"
-        tagline: "Software testing a procedure to ensure the quality of software products or services provided to the customers by an organization. Quality assurance focuses on improving the software development process and making it efficient and effective as per the quality standards defined for software products."
+        tagline: "Quality assurance focuses on improving the software development process and making it efficient and effective as per the quality standards defined for software products."
 
       - title: Assignment - Cloud Computing Architecture 1 (AWS)
         link: "#"
-        tagline: "Get familiar with the AWS management console. Launch your own EC2 instance. Deploy your first PHP web page (PhotoAlbum) on Apache web server on your EC2 instance."
+        tagline: "Deploy your first PHP web page (PhotoAlbum) on Apache web server on your EC2 instance."
 
       - title: Assignment - Cloud Computing Architecture 2 (AWS)
         link: "#"
-        tagline: "Create a secure Virtual Private Cloud (VPC) with subnets, routing tables and security groups. Control access to and from your VPC via an Internet Gateway. Modify the provided PHP code to create a website that stores meta-data information about
-photos uploaded to S3 in a MySQL database managed by Amazon RDS. Deploy and test your PHP web site on an Apache web server running on an EC2 virtual machine instance."
+        tagline: "Deploy and test your PHP web site on an Apache web server running on an EC2 virtual machine instance."
 
 skills:
     title: Skills &amp; Proficiency
