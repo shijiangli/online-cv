@@ -86,5 +86,11 @@ skills:
     toolset:
       - name: Python
       - name: JavaScript
-      - name: HTML5 & CSS3
       - name: Java
+      - name: PHP
+      - name: WordPress
+      - name: AWS
+      - name: HTML5 & CSS3
+      - name: Bootstrap
+      - name: JQuery
+      - name: MySQL
