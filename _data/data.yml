@@ -48,15 +48,22 @@ education:
       time: 2020 - 2022
       details: |
         The Graduate Certificate of Information Technology course is concerned with the development of theoretical knowledge and practical skills related to the design, construction, operation, support and maintenance of information technology (IT) solutions.
-
+    - degree: Master of Arts
+      university: Tianjin Foreign Studies University, Tianjin, China
+      time: 2007 - 2010
+    - degree: Bachelor of Arts
+      university: Hebei Teaching University, Hebei, China
+      time: 2005 - 2007
+      
 experiences:
     - role: Customer Service Manager
       time: 2013 - 2015
-      company: Curtis Fresh, Ballarat
+      company: Curtis Fresh, VIC
       details: |
         Describe your role here lorem ipsum dolor sit amet
-          - Bullet point
-          - Bullet point
+          - Stocktaking
+          - Customer service
+          - Coaching and developing a team of up to 5
 
 projects:
     title: Projects
